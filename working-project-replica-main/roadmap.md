@@ -1,0 +1,3 @@
+- [ ] Recreate SkillSwap dashboard and interactions from the uploaded screenshot.
+- [ ] Add profile, saved learner, and exchange persistence with private access rules.
+- [ ] Verify the main flows, tests, and responsive display.
